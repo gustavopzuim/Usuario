@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Iniciando projeto
 
-# obs: é necessario a pasta node_module que é criado pelo primeiro comando (npx create-react-app)
+# obs: é necessario a pasta node_module
 
 #Primeiro comando antes de tudo ao abrir o terminal com a pasta: "npm install" e "npm install history react-router-dom@next"
 
