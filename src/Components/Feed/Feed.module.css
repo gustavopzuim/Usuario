@@ -1,0 +1,25 @@
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.login {
+  display: grid;
+  min-height: 100vh;
+  gap: 2rem;
+}
+
+.login::before {
+  display: block;
+  content: '';
+  background: url('../../Assets/Trab.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+@media (max-width: 40rem) {
+  .login {
+    grid-template-columns: 1fr;
+  }
+  .login::before {
+    display: none;
+  }
+}
