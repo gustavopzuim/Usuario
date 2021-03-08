@@ -11,10 +11,16 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
---------------------------------------------------------------------------------------------------------
+---
+
+# Iniciando projeto
+
+# obs: é necessario a pasta node_module que é criado pelo primeiro comando (npx create-react-app)
+
+#Primeiro comando antes de tudo ao abrir o terminal com a pasta:npm install history react-router-dom@next
 
 #Para começar o projeto é preciso abrir o terminal e utilizar o seguinte comando: npm start
-exemplo:  C:\Users\gusta\Desktop\react\usuarios> npm start
+exemplo: C:\Users\gusta\Desktop\react\usuarios> npm start
 
 #Navegador padrão ira abrir e cair na seguinte rota http://localhost:3000/
 
